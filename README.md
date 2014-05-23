@@ -1,8 +1,6 @@
-# gdgut.com/io-extended Website
 
 Repo for the Google I/O Extended  website.
 
-![Google I/O Extended Utah logo](resources/generic-io-logo-wide.png)
 
 ## Making Changes
 
